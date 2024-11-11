@@ -41,5 +41,5 @@ O modelo relacional do sistema de e-commerce possui as seguintes entidades princ
 
 Abaixo está uma imagem do modelo relacional desenvolvido:  
 
-![Modelo Relacional de E-commerce](path-to-your-image.png)  
+![Modelo Relacional de E-commerce]([path-to-your-image.png](https://github.com/NildaJuliana/eCommerce-Database-Model/blob/main/Modelo%20E-commerce%20-%20Refinado.png)  
 
